@@ -5,4 +5,3 @@
 - Ce compte github est le moyen par lequel je partage ma passion de la programmation à travers les langages:  
 **R**, **Python**, **SQL** et **Excel VBA**.  
 - J'adore travailler sur des sujets de : Machine Learning, Web Scraping, API, Text Mining & NLP, Data Viz et Web App ⭐
-- 📫 Comment me joindre : smdlabtech@gmail.com
