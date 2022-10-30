@@ -1,7 +1,7 @@
 # Bio
 
-- 👋 Hello tout le monde, Je suis **Daya** de smdlabtech 
-- Je suis **data scientist** passionné de football et de basket-ball.
-- Ce compte github est le moyen par lequel je partage ma passion de la programmation à travers les langages:  
-**R**, **Python**, **SQL** et **Excel VBA**.  
-- J'adore travailler sur des sujets de : Machine Learning, Web Scraping, API, Text Mining & NLP, Data Viz et Web App ⭐
+- 👋 Hi  Hi everyone, I'm **Daya** from smdlabtech
+- I'm **data scientist** with a passion for soccer and basketball.
+- This github account is the way I share my passion for programming through languages:  
+**R**, **Python**, **SQL** and **Excel VBA**.  
+- I love working on topics of: Machine Learning, Web Scraping, APIs, Text Mining & NLP, Data Viz and Web App. ⭐
