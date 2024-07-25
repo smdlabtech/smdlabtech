@@ -11,4 +11,4 @@
 - I'm a **data scientist** with a passion for soccer and basketball. 
 - This account is a way to share my passion for Business Intelligence, data science and programming through the languages :  
  **Python**, **R**, **SQL**, **Javascript** and tools like **Power BI**, **Shiny**, **Streamlit**, **Excel VBA** and **Google Sheets** (via **Google Apps Script**).  
-- I love working on topics of : Chatbot Assistant, Text Mining & NLP and Web App Machine Learning, Deep Learning and AI Assistant and Web Scraping ⭐  
+- I love working on topics like : Chatbot Assistant, Text Mining & NLP and Web App Machine Learning, Deep Learning and AI Assistant and Web Scraping ⭐  
