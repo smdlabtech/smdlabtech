@@ -5,10 +5,18 @@
 [![TikTok](https://img.shields.io/badge/TikTok-Connect-informational?style=flat&logo=tiktok&logoColor=white&color=FF0050)](https://www.tiktok.com/@smdlabtech)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/channel/UCvC9Fh--HrJ2pV0vEq6gj5Q)
 
-# Bio
+# My Bio :
 
 - 👋 Hi, I'm **Daya**
 - I'm a **data scientist** with a passion for soccer and basketball. 
 - This account is a way to share my passion for Business Intelligence, data science and programming through the languages :  
  **Python**, **R**, **SQL**, **Javascript** and tools like **Power BI**, **Shiny**, **Streamlit**, **Excel VBA** and **Google Sheets** (via **Google Apps Script**).  
 - 😎 I love working on topics like : Chatbot Assistant, Text Mining & NLP and Web App Machine Learning, Deep Learning and AI Assistant and Web Scraping ⭐  
+
+
+# [✨Apps Centralizer Streamlit✨](https://apps-centralizer.streamlit.app/)
+<p align="left"> 
+    <a href="https://share.streamlit.io/">
+        <img width="600" src="assets/img/SenLab IA garage.png" align="left"></img>
+    </a>
+</p><br><br><br><br><br>
