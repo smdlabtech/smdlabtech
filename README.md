@@ -6,7 +6,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/channel/UCvC9Fh--HrJ2pV0vEq6gj5Q)
 
 
-# [✨My Bio✨](https://github.com/smdlabtech)
+# [✨Bio✨](https://github.com/smdlabtech)
 
 - 👋 Hi, I'm **Daya**
 - I'm a **data scientist** with a passion for soccer and basketball. 
