@@ -9,6 +9,8 @@
 
 # [✨Bio✨](https://github.com/smdlabtech)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smdlabtech" alt="smdlabtech" /> </p>
+
 - 👋 Hi, I'm **Daya**
 - I'm a **data scientist** with a passion for soccer and basketball. 
 - This account is a way to share my passion for Business Intelligence, data science and programming through the languages :  
