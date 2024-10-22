@@ -1,3 +1,4 @@
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/smdlabtech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/dayasylla/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://x.com/BrainYadzo/followers)
@@ -14,6 +15,9 @@
  **Python**, **R**, **SQL**, **Javascript** and tools like **Power BI**, **Shiny**, **Streamlit**, **Excel VBA** and **Google Sheets** (via **Google Apps Script**).  
 - 😎 I love working on topics like : Chatbot Assistant, Text Mining & NLP and Web App Machine Learning, Deep Learning and AI Assistant and Web Scraping ⭐  
 <br>
+
+![Daya's GitHub stats](https://github-readme-stats.vercel.app/api?username=smdlabtech&theme=nightowl&show_icons=true)
+
 
 <!-- 💻 I'm a **Microsoft Certified Professional** in **Data Science with Python** and ** -->
 
