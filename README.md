@@ -9,14 +9,14 @@
 
 # [✨Bio✨](https://github.com/smdlabtech)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smdlabtech" alt="smdlabtech" /> </p>
-
 - 👋 Hi, I'm **Daya**
 - I'm a **data scientist** with a passion for soccer and basketball. 
 - This account is a way to share my passion for Business Intelligence, data science and programming through the languages :  
  **Python**, **R**, **SQL**, **Javascript** and tools like **Power BI**, **Shiny**, **Streamlit**, **Excel VBA** and **Google Sheets** (via **Google Apps Script**).  
 - 😎 I love working on topics like : Chatbot Assistant, Text Mining & NLP and Web App Machine Learning, Deep Learning and AI Assistant and Web Scraping ⭐  
 <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smdlabtech" alt="smdlabtech" /> </p>
 
 ![Daya's GitHub stats](https://github-readme-stats.vercel.app/api?username=smdlabtech&theme=nightowl&show_icons=true)
 
