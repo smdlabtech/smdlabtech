@@ -5,6 +5,10 @@
 [![TikTok](https://img.shields.io/badge/TikTok-Connect-informational?style=flat&logo=tiktok&logoColor=white&color=FF0050)](https://www.tiktok.com/@smdlabtech)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/channel/UCvC9Fh--HrJ2pV0vEq6gj5Q)
 
+##  Contact
+[![](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dayasmdlabtech)
+[![](https://img.shields.io/badge/-Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:smdlabtech@gmail.com)](mailto:smdlabtech@gmail.com)
+[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@smdlabtech)
 
 # [✨Data Scientist & AI Engineer✨](https://github.com/smdlabtech)
 
