@@ -18,7 +18,7 @@
 
 ![Daya's GitHub stats](https://github-readme-stats.vercel.app/api?username=smdlabtech&theme=nightowl&show_icons=true)
 
-##  Contact
+##  Contact :🌎
 [![](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dayasmdlabtech)
 [![](https://img.shields.io/badge/-Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:smdlabtech@gmail.com)](mailto:smdlabtech@gmail.com)
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@smdlabtech)
