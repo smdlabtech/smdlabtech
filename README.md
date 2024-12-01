@@ -19,7 +19,7 @@
 
 ![Daya's GitHub stats](https://github-readme-stats.vercel.app/api?username=smdlabtech&theme=nightowl&show_icons=true)
 
-##  Contact Me :🌎
+## 🌎Contact Me :📧
 [![](https://img.shields.io/badge/-Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:smdlabtech@gmail.com)](mailto:smdlabtech@gmail.com)
 [![](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayasylla/)
 
