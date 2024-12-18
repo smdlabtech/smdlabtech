@@ -19,17 +19,10 @@
 
 ![Daya's GitHub stats](https://github-readme-stats.vercel.app/api?username=smdlabtech&theme=nightowl&show_icons=true)
 
-## 🌎Contact Me :📧
+## 🌎Contact Me :
 [![](https://img.shields.io/badge/-Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:smdlabtech@gmail.com)](mailto:smdlabtech@gmail.com)
 [![](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayasylla/)
 
-
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/dayasylla/)-->
-<!--[![](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dayasmdlabtech)-->
-<!--[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@smdlabtech))-->
-<!--[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@smdlabtech)-->
-
-<!-- 💻 I'm a **Microsoft Certified Professional** in **Data Science with Python** and ** -->
 
 <!--
 <p align="left"> 
@@ -38,3 +31,44 @@
     </a>
 </p><br><br><br><br><br>
 -->
+
+---
+Here you'll find all my latest certifications.
+
+## 🏆 | 📜Data Analytics & Data Sciences
+
+### Certificates :
+✔️ **Certified** on 2023-07-17 : [Alteryx Designer Core Certification [*click here to view*]](https://www.credly.com/badges/a35bc2bc-8641-4461-979b-264bd2385d51/linked_in?t=ryathr)  
+✔️ **Certified** on 2021-06-10 : [Scival [*click here to view*]](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)  
+✔️ **Certified** on 2024-12-13 : [Power-BI PL300 [*click here to view*]](https://learn.microsoft.com/fr-fr/users/dayasylla-9672/credentials/certification/data-analyst-associate)
+
+
+### Badges :
+✔️ **Earned :** on 2023-07-17 : [Alteryx Designer Core Certification [*click here to view*]](https://www.credly.com/badges/a35bc2bc-8641-4461-979b-264bd2385d51/linked_in?t=ryathr) 
+
+
+
+## 🏆 | 📜Data & Cloud Engineering
+
+### Certificates :
+✔️ **Certified**
+
+- [GCP - Data Engineer ressources [*click here to view*]](https://www.cloudskillsboost.google/paths/16?hl=fr)
+- [Google and other resources [*click here to view*]](https://cloud.google.com/learn/certificates?hl=fr)
+- [My resources manager [*click here to view*]](https://lookerstudio.google.com/u/0/reporting/15699df7-d3bd-4b0f-8834-647745c6f882/page/p_3rjgmnrudd)  
+
+
+### Badges :
+✔️ **Earned :**
+
+## 🏆 | 📜Dev Ops
+
+### Certificates :
+✔️ **Certified**
+
+- [Link [*click here to view*]](https://earth.google.com/web)
+- [Link [*click here to view*]](https://earth.google.com/web)
+
+
+### Badges :
+---

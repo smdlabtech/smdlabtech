@@ -1,0 +1,25 @@
+{
+    "name": "Axys Theme",
+    "dataColors": [
+        "#008A8C",
+        "#004C5D",
+        "#0F7484",
+        "#02AEB1",
+        "#FF2148",
+        "#404148",
+        "#F2F2F2"
+    ],
+    "foreground": "#008A8C",
+    "background": "#FFFFFF",
+    "foregroundNeutralSecondary": "#004C5D",
+    "backgroundLight": "#F2F2F2",
+    "foregroundNeutralTertiary": "#0F7484",
+    "backgroundNeutral": "#EDE8E1",
+    "tableAccent": "#566164",
+    "maximum": "#FF2148",
+    "center": "#0F7484",
+    "minimum": "#004C5D",
+    "bad": "#FF2148",
+    "neutral": "#404148",
+    "good": "#02AEB1"
+}

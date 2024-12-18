@@ -1,0 +1,34 @@
+body {
+    background-color: #f0f2f6; /* Remplacez cette couleur par celle que vous voulez */
+}
+
+h1 {
+    text-align: center;
+    /*color: #333; /* Couleur du texte */
+    color: #243447;
+	font-weight: bold;
+    /*color: linear-gradient(to right, #243447, #08866F);*/
+}
+
+h2 {
+    text-align: center;
+    /*color: #333; /* Couleur du texte */
+    color: #243447;
+	font-weight: bold;
+    /*color: linear-gradient(to right, #243447, #08866F);*/
+}
+
+
+h3 {
+    text-align: center;
+    /*color: #333; /* Couleur du texte */
+    color: #243447;
+	font-weight: bold;
+    /*color: linear-gradient(to right, #243447, #08866F);*/
+}
+
+
+
+
+
+/* Vous pouvez ajouter d'autres styles ici pour personnaliser davantage votre application */
