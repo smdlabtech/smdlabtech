@@ -47,8 +47,7 @@ Here you'll find all my latest certifications.
 ✔️ **Earned :** on 2023-07-17 : [Alteryx Designer Core Certification [*click here to view*]](https://www.credly.com/badges/a35bc2bc-8641-4461-979b-264bd2385d51/linked_in?t=ryathr) 
 
 
-
-## 📜Data & Cloud Engineering
+## 📜CLOUD Engineering
 
 ### 🏆Certificates :
 ✔️ **Certified**
@@ -61,7 +60,7 @@ Here you'll find all my latest certifications.
 ### 🥇Badges :
 ✔️ **Earned :**
 
-## 📜Dev Ops
+## 📜DEV Ops
 
 ### 🏆Certificates :
 ✔️ **Certified**
