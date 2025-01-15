@@ -29,6 +29,16 @@ Here you'll find all my latest certifications.
 
 ## 📜Data Analytics & Data Sciences 
 
+<!--Power-BI PL300-->
+✔️ **Certified** on 2024-12-13 : [Power-BI PL300 [*click here to view*]](https://learn.microsoft.com/fr-fr/users/dayasylla-9672/credentials/certification/data-analyst-associate)
+<details>
+<summary>[View] Certification :</summary>
+<p style="text-align:center;"> 
+    <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Certifications/PL300 - Power BI/img/Certification Power BI.png">
+</p>
+</details>  
+<br>
+
 <!--Alteryx Designer Core Certification-->
 ### 🏆Certificates :
 ✔️ **Certified** on 2023-07-17 : [Alteryx Designer Core Certification [*click here to view*]](https://www.credly.com/badges/a35bc2bc-8641-4461-979b-264bd2385d51/linked_in?t=ryathr) 
@@ -47,16 +57,6 @@ Here you'll find all my latest certifications.
     <img width="700" src="_Certifcations_and_Badges/">
 </p>
 </details>
-
-<!--Power-BI PL300-->
-✔️ **Certified** on 2024-12-13 : [Power-BI PL300 [*click here to view*]](https://learn.microsoft.com/fr-fr/users/dayasylla-9672/credentials/certification/data-analyst-associate)
-<details>
-<summary>[View] Certification :</summary>
-<p style="text-align:center;"> 
-    <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Certifications/PL300 - Power BI/img/Certification Power BI.png">
-</p>
-</details>  
-<br>
 
 
 ### 🥇Badges :
