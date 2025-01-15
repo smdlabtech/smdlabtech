@@ -27,47 +27,62 @@
 ---
 Here you'll find all my latest certifications.
 
-## 📜Data Analytics & Data Sciences 
+## 📜 Data Analytics & Data Sciences 
 
 <!--Power-BI PL300-->
 ✔️ **Certified** on 2024-12-13 : [Power-BI PL300 [*click here to view*]](https://learn.microsoft.com/fr-fr/users/dayasylla-9672/credentials/certification/data-analyst-associate)
-<details>
-<summary>[View] Certification :</summary>
-<p style="text-align:center;"> 
+    <details>
+    <summary>[View] Certification :</summary>
+    <p style="text-align:center;"> 
     <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Certifications/PL300 - Power BI/img/Certification Power BI.png">
-</p>
-</details>  
+    </p>
+    </details>  
+    <!--(1)-->
+    <details>
+    <summary>[View] Certification :</summary>
+    <p style="text-align:center;"> 
+    <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Certifications/PL300 - Power BI/img/Certification Power BI.png">
+    </p>
+    </details> 
+    <!--(2)-->
+    <details>
+    <summary>[View] Certification :</summary>
+    <p style="text-align:center;"> 
+    <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Certifications/PL300 - Power BI/img/Certification Power BI.png">
+    </p>
+    </details> 
+    <!--(2)-->
 <br>
 
 <!--Alteryx Designer Core Certification-->
-### 🏆Certificates :
+### 🏆 Certificates :
 ✔️ **Certified** on 2023-07-17 : [Alteryx Designer Core Certification [*click here to view*]](https://www.credly.com/badges/a35bc2bc-8641-4461-979b-264bd2385d51/linked_in?t=ryathr) 
-<details>
-<summary>[View] Certification :</summary>
-<p style="text-align:center;"> 
-    <img width="700" src="_Certifcations_and_Badges/Alteryx/Certificate/Certificate.png">
-</p>
-</details>
+    <details>
+    <summary>[View] Certification :</summary>
+    <p style="text-align:center;"> 
+        <img width="700" src="_Certifcations_and_Badges/Alteryx/Certificate/Certificate.png">
+    </p>
+    </details>
 
 <!--Scival-->
 ✔️ **Certified** on 2021-06-10 : [Scival [*click here to view*]](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)  
-<details>
-<summary>[View] Certification :</summary>
-<p style="text-align:center;"> 
-    <img width="700" src="_Certifcations_and_Badges/">
-</p>
-</details>
+    <details>
+    <summary>[View] Certification :</summary>
+    <p style="text-align:center;"> 
+        <img width="700" src="_Certifcations_and_Badges/">
+    </p>
+    </details>
 
 
-### 🥇Badges :
+### 🥇 Badges :
 ✔️ **Earned :** on 2023-07-17 : [Alteryx Designer Core Certification [*click here to view*]](https://www.credly.com/badges/a35bc2bc-8641-4461-979b-264bd2385d51/linked_in?t=ryathr) 
 
 
 <br>
 
-## 📜CLOUD Engineering
+## 📜 CLOUD Engineering
 
-### 🏆Certificates :
+### 🏆 Certificates :
 ✔️ **Certified**
 
 - [GCP - Data Engineer ressources [*click here to view*]](https://www.cloudskillsboost.google/paths/16?hl=fr)
@@ -75,20 +90,20 @@ Here you'll find all my latest certifications.
 - [My resources manager [*click here to view*]](https://lookerstudio.google.com/u/0/reporting/15699df7-d3bd-4b0f-8834-647745c6f882/page/p_3rjgmnrudd)  
 
 
-### 🥇Badges :
+### 🥇 Badges :
 ✔️ **Earned :**
 
 
 <br>
 
-## 📜DEV Ops
+## 📜 DEV Ops
 
-### 🏆Certificates :
+### 🏆 Certificates :
 ✔️ **Certified**
 
 - [Link [*click here to view*]](https://earth.google.com/web)
 - [Link [*click here to view*]](https://earth.google.com/web)
 
 
-### 🥇Badges :
+### 🥇 Badges :
 ---
