@@ -63,7 +63,7 @@
 *Unfold icons to view badges.*
     <!--(1) : Power-BI PL300-->
     <details>
-    <summary>**Earned** on 2024-12-13 : [Ecrire des Formules DAX](https://learn.microsoft.com/fr-fr/training/modules/dax-power-bi-write-formulas/)
+    <summary>**Earned** on 2024-12-13 : [[Microsoft] | Ecrire des Formules DAX](https://learn.microsoft.com/fr-fr/training/modules/dax-power-bi-write-formulas/)
     </summary>
     <p style="text-align:center;"> 
     <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Badges/PNG/Badge (1).png">
@@ -71,14 +71,14 @@
     </details> 
     <!--(2) : Alteryx Designer Core Certification-->
     <details>
-        <summary>**Earned** on 2023-07-17 : [Principe de base de l'IA Générative](https://learn.microsoft.com/fr-fr/training/modules/fundamentals-generative-ai/)</summary>
+        <summary>**Earned** on 2023-07-17 : [[Microsoft] | Principe de base de l'IA Générative](https://learn.microsoft.com/fr-fr/training/modules/fundamentals-generative-ai/)</summary>
         <p style="text-align:center;"> 
             <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Badges/PNG/Badge (2).png">
         </p>
     </details>
     <!--(3) : Scival -->
     <details>
-        <summary>**Earned** on 2024-11-15 : [Ecrire des Formules DAX pour le modèles Power BI Desktop](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)</summary>
+        <summary>**Earned** on 2024-11-15 : [[Microsoft] | Ecrire des Formules DAX pour le modèles Power BI Desktop](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)</summary>
         <p style="text-align:center;"> 
             <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Badges/PNG/Badge (3).png">
         </p>
