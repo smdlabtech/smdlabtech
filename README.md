@@ -31,7 +31,7 @@
 
 <!--#####################--->
 <!--Certifications-->
-### 🏆 Certificates :
+### 🏆 Certificates :  
 *Unfold icons to view certificates.*
     <!--(A) : Power-BI PL300-->
     <details>
@@ -59,7 +59,7 @@
 
 
 <!--************************-->
-### 🥇 Badges : *Unfold icons to view badges.*
+### 🥇 Badges : 
 *Unfold icons to view badges.*
     <!--(1) : Power-BI PL300-->
     <details>
