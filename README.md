@@ -83,6 +83,13 @@
             <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Badges/PNG/Badge (3).png">
         </p>
     </details>
+    <!--(4) : SAS - CY Cergy Paris Université Academic Specialization in Business Analytics & Statistical Data Analysis -->
+    <details>
+        <summary>**Earned** on 2024-11-28 : [SAS Specialization in Business Analytics & Statistical Data Analysis](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)</summary>
+        <p style="text-align:center;"> 
+            <img width="700" src="_Certifcations_and_Badges/Others/Badges/PNG/sas-cy-badge.png">
+        </p>
+    </details>
 <br>
 
 
