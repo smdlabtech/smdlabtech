@@ -25,85 +25,75 @@
 
 
 ---
-Here you'll find all my latest certifications.
+*Here you'll find all my latest certifications.*
 
 ## 📜 Data Analytics & Data Sciences 
 
-<!--Power-BI PL300-->
-✔️ **Certified** on 2024-12-13 : [Power-BI PL300 [*click here to view*]](https://learn.microsoft.com/fr-fr/users/dayasylla-9672/credentials/certification/data-analyst-associate)
-    <details>
-    <summary>[View] Certification :</summary>
-    <p style="text-align:center;"> 
-    <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Certifications/PL300 - Power BI/img/Certification Power BI.png">
-    </p>
-    </details>  
-    <!--(1)-->
-    <details>
-    <summary>[View] Certification :</summary>
-    <p style="text-align:center;"> 
-    <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Certifications/PL300 - Power BI/img/Certification Power BI.png">
-    </p>
-    </details> 
-    <!--(2)-->
-    <details>
-    <summary>[View] Certification :</summary>
-    <p style="text-align:center;"> 
-    <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Certifications/PL300 - Power BI/img/Certification Power BI.png">
-    </p>
-    </details> 
-    <!--(2)-->
-<br>
-
-<!--Alteryx Designer Core Certification-->
+<!--#####################--->
+<!--Certifications-->
 ### 🏆 Certificates :
-✔️ **Certified** on 2023-07-17 : [Alteryx Designer Core Certification [*click here to view*]](https://www.credly.com/badges/a35bc2bc-8641-4461-979b-264bd2385d51/linked_in?t=ryathr) 
+*Unfold icons to view certificates.*
+    <!--(A) : Power-BI PL300-->
     <details>
-    <summary>[View] Certification :</summary>
+    <summary>**Certified** on 2024-12-13 : [Microsoft Power-BI PL300](https://learn.microsoft.com/fr-fr/users/dayasylla-9672/credentials/certification/data-analyst-associate)
+    </summary>
     <p style="text-align:center;"> 
-        <img width="700" src="_Certifcations_and_Badges/Alteryx/Certificate/Certificate.png">
+    <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Certifications/PL300 - Power BI/img/Certification Power BI.png">
     </p>
-    </details>
-
-<!--Scival-->
-✔️ **Certified** on 2021-06-10 : [Scival [*click here to view*]](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)  
+    </details> 
+    <!--(B) : Alteryx Designer Core Certification-->
     <details>
-    <summary>[View] Certification :</summary>
-    <p style="text-align:center;"> 
-        <img width="700" src="_Certifcations_and_Badges/">
-    </p>
+        <summary>**Certified** on 2023-07-17 : [Alteryx Designer Core Certification](https://www.credly.com/badges/a35bc2bc-8641-4461-979b-264bd2385d51/linked_in?t=ryathr)</summary>
+        <p style="text-align:center;"> 
+            <img width="700" src="_Certifcations_and_Badges/Alteryx/Certificate/Certificate.png">
+        </p>
     </details>
-
-
-### 🥇 Badges :
-✔️ **Earned :** on 2023-07-17 : [Alteryx Designer Core Certification [*click here to view*]](https://www.credly.com/badges/a35bc2bc-8641-4461-979b-264bd2385d51/linked_in?t=ryathr) 
-
-
+    <!--(C) : Scival -->
+    <details>
+        <summary>**Certified** on 2021-06-10 : [Elsevier Scival](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)</summary>
+        <p style="text-align:center;"> 
+            <img width="700" src="_Certifcations_and_Badges/">
+        </p>
+    </details>
 <br>
 
+
+<!--************************-->
+### 🥇 Badges : *Unfold icons to view badges.*
+*Unfold icons to view badges.*
+    <!--(1) : Power-BI PL300-->
+    <details>
+    <summary>**Earned** on 2024-12-13 : [Ecrire des Formules DAX](https://learn.microsoft.com/fr-fr/training/modules/dax-power-bi-write-formulas/)
+    </summary>
+    <p style="text-align:center;"> 
+    <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Badges/PNG/Badge (1).png">
+    </p>
+    </details> 
+    <!--(2) : Alteryx Designer Core Certification-->
+    <details>
+        <summary>**Earned** on 2023-07-17 : [Principe de base de l'IA Générative](https://learn.microsoft.com/fr-fr/training/modules/fundamentals-generative-ai/)</summary>
+        <p style="text-align:center;"> 
+            <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Badges/PNG/Badge (2).png">
+        </p>
+    </details>
+    <!--(3) : Scival -->
+    <details>
+        <summary>**Earned** on 2024-11-15 : [Ecrire des Formules DAX pour le modèles Power BI Desktop](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)</summary>
+        <p style="text-align:center;"> 
+            <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Badges/PNG/Badge (3).png">
+        </p>
+    </details>
+<br>
+
+<!--📚##################--->
+<!--#####################--->
 ## 📜 CLOUD Engineering
 
-### 🏆 Certificates :
-✔️ **Certified**
-
-- [GCP - Data Engineer ressources [*click here to view*]](https://www.cloudskillsboost.google/paths/16?hl=fr)
-- [Google and other resources [*click here to view*]](https://cloud.google.com/learn/certificates?hl=fr)
-- [My resources manager [*click here to view*]](https://lookerstudio.google.com/u/0/reporting/15699df7-d3bd-4b0f-8834-647745c6f882/page/p_3rjgmnrudd)  
+### 🏆 Certificates : 
+*[Dev in Progress...]*  
 
 
-### 🥇 Badges :
-✔️ **Earned :**
-
-
-<br>
-
+<!--📚##################--->
+<!--#####################--->
 ## 📜 DEV Ops
-
-### 🏆 Certificates :
-✔️ **Certified**
-
-- [Link [*click here to view*]](https://earth.google.com/web)
-- [Link [*click here to view*]](https://earth.google.com/web)
-
-
-### 🥇 Badges :
----
+*[Dev in Progress...]*   
