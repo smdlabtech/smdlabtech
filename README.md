@@ -35,7 +35,7 @@
 *Unfold icons to view certificates.*
     <!--(A) : Power-BI PL300-->
     <details>
-    <summary>**Certified** on 2024-12-13 : [Microsoft Power-BI PL300](https://learn.microsoft.com/fr-fr/users/dayasylla-9672/credentials/certification/data-analyst-associate)
+    <summary>**Certified** on 2024 : [Microsoft Power-BI PL300](https://learn.microsoft.com/fr-fr/users/dayasylla-9672/credentials/certification/data-analyst-associate)
     </summary>
     <p style="text-align:center;"> 
     <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Certifications/PL300 - Power BI/img/Certification Power BI.png">
@@ -43,14 +43,14 @@
     </details> 
     <!--(B) : Alteryx Designer Core Certification-->
     <details>
-        <summary>**Certified** on 2023-07-17 : [Alteryx Designer Core Certification](https://www.credly.com/badges/a35bc2bc-8641-4461-979b-264bd2385d51/linked_in?t=ryathr)</summary>
+        <summary>**Certified** on 2023 : [Alteryx Designer Core Certification](https://www.credly.com/badges/a35bc2bc-8641-4461-979b-264bd2385d51/linked_in?t=ryathr)</summary>
         <p style="text-align:center;"> 
             <img width="700" src="_Certifcations_and_Badges/Alteryx/Certificate/Certificate.png">
         </p>
     </details>
     <!--(C) : Scival -->
     <details>
-        <summary>**Certified** on 2021-06-10 : [Elsevier Scival](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)</summary>
+        <summary>**Certified** on 2021 : [Elsevier Scival](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)</summary>
         <p style="text-align:center;"> 
             <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Badges/PNG/Badge (3).png">
         </p>
@@ -63,7 +63,7 @@
 *Unfold icons to view badges.*
     <!--(1) : [Microsoft] | Ecrire des Formules DAX -->
     <details>
-    <summary>**Earned** on 2024-11-28 : [[Microsoft] | Ecrire des Formules DAX](https://learn.microsoft.com/fr-fr/training/modules/dax-power-bi-write-formulas/)
+    <summary>**Earned** on 2024 : [[Microsoft] | Ecrire des Formules DAX](https://learn.microsoft.com/fr-fr/training/modules/dax-power-bi-write-formulas/)
     </summary>
     <p style="text-align:center;"> 
     <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Badges/PNG/Badge (1).png">
@@ -71,21 +71,21 @@
     </details> 
     <!--(2) : [Microsoft] | Principe de base de l'IA Générative -->
     <details>
-        <summary>**Earned** on 2024-11-15 : [[Microsoft] | Principe de base de l'IA Générative](https://learn.microsoft.com/fr-fr/training/modules/fundamentals-generative-ai/)</summary>
+        <summary>**Earned** on 2024 : [[Microsoft] | Principe de base de l'IA Générative](https://learn.microsoft.com/fr-fr/training/modules/fundamentals-generative-ai/)</summary>
         <p style="text-align:center;"> 
             <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Badges/PNG/Badge (2).png">
         </p>
     </details>
     <!--(3) : [Microsoft] | Ecrire des Formules DAX pour le modèles Power BI Desktop -->
     <details>
-        <summary>**Earned** on 2024-11-28 : [[Microsoft] | Ecrire des Formules DAX pour le modèles Power BI Desktop](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)</summary>
+        <summary>**Earned** on 2024 : [[Microsoft] | Ecrire des Formules DAX pour le modèles Power BI Desktop](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)</summary>
         <p style="text-align:center;"> 
             <img width="700" src="_Certifcations_and_Badges/_Microsoft Certifications/Badges/PNG/Badge (3).png">
         </p>
     </details>
     <!--(4) : SAS - CY Cergy Paris Université Academic Specialization in Business Analytics & Statistical Data Analysis -->
     <details>
-        <summary>**Earned** on 2024-11-28 : [SAS Specialization in Business Analytics & Statistical Data Analysis](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)</summary>
+        <summary>**Earned** on 2024 : [SAS Specialization in Business Analytics & Statistical Data Analysis](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)</summary>
         <p style="text-align:center;"> 
             <img width="700" src="_Certifcations_and_Badges/Others/Badges/PNG/sas-cy-badge.png">
         </p>
