@@ -25,7 +25,7 @@
 
 
 ---
-⬇*⬇Here you'll find all my latest certifications.*
+👇*Here you'll find all my latest certifications.*
 
 ## 📜 Data Analytics & Data Sciences 
 
