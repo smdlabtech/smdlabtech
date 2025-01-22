@@ -25,14 +25,14 @@
 
 
 ---
-*Here you'll find all my latest certifications.*
+⬇*⬇Here you'll find all my latest certifications.*
 
 ## 📜 Data Analytics & Data Sciences 
 
 <!--#####################--->
 <!--Certifications-->
 ### 🏆 Certificates :  
-*Unfold icons to view certificates.*
+⬇️*Unfold icons to view certificates.*
     <!--(A) : Power-BI PL300-->
     <details>
     <summary>**Certified** on 2024 : [Microsoft Power-BI PL300](https://learn.microsoft.com/fr-fr/users/dayasylla-9672/credentials/certification/data-analyst-associate)
@@ -60,7 +60,7 @@
 
 <!--************************-->
 ### 🥇 Badges : 
-*Unfold icons to view badges.*
+⬇️*Unfold icons to view badges.*
     <!--(1) : [Microsoft] | Ecrire des Formules DAX -->
     <details>
     <summary>**Earned** on 2024 : [[Microsoft] | Ecrire des Formules DAX](https://learn.microsoft.com/fr-fr/training/modules/dax-power-bi-write-formulas/)
