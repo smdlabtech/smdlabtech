@@ -25,7 +25,7 @@
 
 
 ---
-*You can also find all my certifications on [[Linkedin]](https://www.linkedin.com/in/dayasylla/details/certifications/)*   
+*My certifications on [[Linkedin]](https://www.linkedin.com/in/dayasylla/details/certifications/)*   
 👇*Here you'll find all my latest certifications.*   
 
 ## 📜 Data Analytics & Data Sciences 
