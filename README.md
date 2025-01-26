@@ -7,7 +7,7 @@
 [![Medium](https://img.shields.io/badge/Medium-Follow-informational?style=flat&logo=kagglek&logoColor=white&color=023243)](https://medium.com/@smdlabtech)  
 
 <p align="left"> 
-<img width="700" src="assets/img/gif_github.gif" alt="GitHub Animation">
+<img width="900" src="assets/img/gif_github.gif" alt="GitHub Animation">
 </p>
 
 # [✨Data Scientist & AI Engineer✨](https://github.com/smdlabtech)
