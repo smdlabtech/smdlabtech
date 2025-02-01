@@ -119,4 +119,3 @@
 
 ---
 > @smdlabtech 2025 - **smd labtech**  
-> Icons sources : [GitHub Shields](https://shields.io/badges)
