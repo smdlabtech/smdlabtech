@@ -32,7 +32,7 @@
 *My certifications on [[Linkedin]](https://www.linkedin.com/in/dayasylla/details/certifications/)*   
 👇*Here you'll find all my latest certifications.*   
 
-## 📜 Data Analytics & Data Sciences 
+## 📜  Data Engineering & Data Sciences & Data Analysis
 
 <!--#####################--->
 <!--Certifications-->
