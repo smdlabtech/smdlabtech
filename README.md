@@ -103,7 +103,11 @@
 <!--***************************-->
 
 # 🚀 Tech Stack
-[🖥️Programming Language] & [🧠Data Science & ML] & [📊 Business Intelligence & Reporting]    
+1. [🖥️Programming Language] & [🧠Data Science & ML] & [📊 Business Intelligence & Reporting]    
+2. [☁️Cloud & Infrastructure] & [DevOps & Automation] & [⚙️Tools & Development Environments]  
+3. [🎨Frontend & UI Development] & [🏗️Backend & API Development] & [🗄️Databases & Data Engineering]  
+4. [🏆 Methodologies & Collaboration Tools]  
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -115,8 +119,7 @@
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Google Data Studio (Looker)](https://img.shields.io/badge/-Looker-4285F4?style=flat&logo=looker&logoColor=white)
 ![Excel VBA](https://img.shields.io/badge/-Excel_VBA-217346?style=flat&logo=microsoft-excel&logoColor=white) 
-
-[☁️Cloud & Infrastructure] & [DevOps & Automation] & [⚙️Tools & Development Environments]  
+ 
 ![MLOps](https://img.shields.io/badge/-MLOps-FF6F00?style=flat&logo=mlops&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
@@ -133,8 +136,7 @@
 ![Shell Scripting](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-
-[🎨Frontend & UI Development] & [🏗️Backend & API Development] & [🗄️Databases & Data Engineering]  
+  
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -147,7 +149,6 @@
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
 ![SAP HANA](https://img.shields.io/badge/-SAP_HANA-0FAAFF?style=flat&logo=sap&logoColor=white)
 
-🏆 Methodologies & Collaboration Tools  
 ![Scrum](https://img.shields.io/badge/-Scrum-009FDA?style=flat&logo=scrum-alliance&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-0052CC?style=flat&logo=confluence&logoColor=white)
 ![SAP Fiori](https://img.shields.io/badge/-SAP_Fiori-0FAAFF?style=flat&logo=sap&logoColor=white)
