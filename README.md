@@ -74,8 +74,6 @@
     </div>
     </details>
 
-<br>
-
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smdlabtech" alt="smdlabtech" /> </p>
 
