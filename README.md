@@ -22,7 +22,7 @@
     <!------ Ajout des élément d'expériences ------------>
     <!--------------------------------------------------->
     <details>
-    <summary>➡️<em>See more details...</em></summary>
+    <summary>➡️<em>See more details about me...</em></summary>
 
     <!--(02)-->
     <div>
