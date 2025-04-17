@@ -26,7 +26,7 @@
 
     <!--(02)-->
     <div>
-    <h2>🧑‍💻 Development (Full Stack + AI)</h2>
+    <h2>🧑‍💻 Developer (Full Stack + AI)</h2>
     <ul>
         <li>End-to-end development of <strong>Web, Data and AI</strong> applications, from MVP to deployed product.</li>
         <li>Tech stack mastered:
@@ -43,7 +43,7 @@
 
     <!--(02)-->
     <div>
-    <h2>🧠 Problem Solving (Tech + Product)</h2>
+    <h2>🧠 Problem Solvier (Tech + Product)</h2>
     <ul>
         <li>Logical breakdown of complex challenges.</li>
         <li>Designing concrete solutions from unclear business needs.</li>
@@ -63,7 +63,7 @@
     </div>
 
     <div>
-    <h2>📈 Product Marketing & Growth</h2>
+    <h2>📈 Product Marketing and Growth Manager</h2>
     <ul>
         <li>Design of impactful landing pages (SEO, CTA, analytics tracking).</li>
         <li>Clear product positioning, freemium or SaaS strategy.</li>
