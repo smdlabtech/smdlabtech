@@ -22,7 +22,7 @@
     <!------ Ajout des élément d'expériences ------------>
     <!--------------------------------------------------->
     <details>
-    <summary>➡️ <strong>[More skills]</strong></summary>
+    <summary>➡️ <em>See more details...</em></summary>
 
     <!--(02)-->
     <div>
@@ -43,7 +43,7 @@
 
     <!--(02)-->
     <div>
-    <h2>🧠 Problem Solvier (Tech + Product)</h2>
+    <h2>🧠 Problem Solver (Tech + Product)</h2>
     <ul>
         <li>Logical breakdown of complex challenges.</li>
         <li>Designing concrete solutions from unclear business needs.</li>
